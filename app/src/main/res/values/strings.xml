@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OneTrakSteps</string>
+    <string name="goal_reached">Goal reached</string>
+</resources>

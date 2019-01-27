@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SegmentedBar">
+        <attr name="sb_walk" format="integer"/>
+        <attr name="sb_aerobic" format="integer"/>
+        <attr name="sb_run" format="integer"/>
+        <attr name="sb_max" format="integer"/>
+        <attr name="sb_divider" format="integer"/>
+        <attr name="sb_height" format="integer"/>
+    </declare-styleable>
+</resources>
